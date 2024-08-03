@@ -3,6 +3,8 @@ Lamaro Brenda 23-U-2225-GIM-PS
 Ultrasonic Sensor with Buzzer Alarm
 This Arduino sketch uses an ultrasonic sensor (HC-SR04) to measure distance and triggers a buzzer alarm when an object is detected within a certain range.
 
+> Reviewed and Evaluated by AJr.Allan
+
 Components Required
 Arduino board (e.g., Arduino Uno)
 HC-SR04 Ultrasonic Sensor
